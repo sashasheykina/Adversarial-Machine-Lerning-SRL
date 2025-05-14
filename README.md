@@ -7,7 +7,7 @@ Contents
 
 Below is a description of each file included in the replication package:
 
-1.Database search
+## 1.Database search
 
 This file documents the initial search strategy performed across selected academic databases. It includes:
 •	Names of the databases used (e.g., Scopus, IEEE Xplore, ACM Digital Library)
