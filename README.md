@@ -1,5 +1,5 @@
 # Exploring-Perturbation-Patterns-and-Impact-in-Adversarial-Machine-Learning---replication-package
-This repository contains the replication package related to the Systematic Literature Review (SLR) in the field of Adversarial Machine Learning (AML).
+This repository contains the replication package related to the Systematic Literature Review (SLR) in the field of Adversarial Machine Learning (AML). The data and analysis scripts provided here are related to the study presented in the following paper: Sheykina, A. et al. "Exploring_Perturbation_Patterns_and_Impact_in_Adversarial_Machine_Learning__A_Systematic_Literature_Review".
 
 It includes a comprehensive set of Excel files documenting each phase of the review process, from study identification to data extraction and synthesis. The objective is to ensure transparency, reproducibility, and applicability of the methodology and findings.
 
